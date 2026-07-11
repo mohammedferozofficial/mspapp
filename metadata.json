@@ -1,0 +1,6 @@
+{
+  "name": "MereSathPadhlo",
+  "description": "A simple, lightweight education app to share and manage notes, PDFs, questions, and previous year questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
